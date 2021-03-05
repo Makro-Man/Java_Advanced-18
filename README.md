@@ -1,6 +1,7 @@
 1. Створіть модель
 
-Participant {
+Participant
+{
     id,
     name,
     email,
