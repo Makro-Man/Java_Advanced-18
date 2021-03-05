@@ -6,7 +6,6 @@ Participant {
     email,
     level{L1,L2,L3,L4,L5},
     primarySkill
-    
 } 
 
 2. Створіть Dao і Service Layer
